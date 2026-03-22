@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Ritus Inanis",
+  "base_artist": "La prière",
+  "createdAt": "2026-03-22T11:18:42.554777Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ritus Inanis",
+      "artist": "La prière",
+      "has_synced": false,
+      "path": "select/pl_01_Ritus_Inanis_La_prière.txt"
+    }
+  ]
+}
